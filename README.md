@@ -1,6 +1,6 @@
 # react-native-simple-kit
 
-[![CircleCI](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit.svg?style=shield&circle-token=7207fcf84efb2248759b3c51536c57a61d074712)](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit)
+[![CircleCI](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit.svg?style=shield)](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit)
 [![Coverage Status](https://coveralls.io/repos/github/CharlesMangwa/react-native-simple-kit/badge.svg?branch=react-navigation)](https://coveralls.io/github/CharlesMangwa/react-native-simple-kit?branch=react-navigation)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://img.shields.io/badge/License-MIT-brightgreen.svg)
@@ -158,7 +158,7 @@ They all constitute the backbone of the command ran before each commit:
 $ lint-staged && yarn lint && yarn flow && yarn jest
 ```
 
-This is run by [CircleCI 2.0](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit) to make sure that we keep everything clean & harmonious: ![CircleCI](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit.svg?style=shield&circle-token=7207fcf84efb2248759b3c51536c57a61d074712). So let's break it down piece by piece.
+This is run by [CircleCI 2.0](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit) to make sure that we keep everything clean & harmonious: ![CircleCI](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit.svg?style=shield). So let's break it down piece by piece.
 
 ### Prettier
 

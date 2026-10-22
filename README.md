@@ -1,5 +1,8 @@
 # react-native-simple-kit
 
+> **Repository security note (2026-10-22):** This historical React Native starter previously contained CircleCI badge URLs with credential-style query parameters. Those parameters have been removed from the current README, but prior Git history may retain them. The credential owner should verify whether any associated tokens remain active and revoke or rotate as needed. The original upstream badges and historical CI references do not attest to current build status for this copy.
+
+
 [![CircleCI](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit.svg?style=shield)](https://circleci.com/gh/CharlesMangwa/react-native-simple-kit)
 [![Coverage Status](https://coveralls.io/repos/github/CharlesMangwa/react-native-simple-kit/badge.svg?branch=react-navigation)](https://coveralls.io/github/CharlesMangwa/react-native-simple-kit?branch=react-navigation)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
